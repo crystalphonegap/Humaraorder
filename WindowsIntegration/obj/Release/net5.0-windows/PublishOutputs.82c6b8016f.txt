@@ -1,0 +1,16 @@
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\WindowsIntegration.exe
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\WindowsIntegration.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\WindowsIntegration.deps.json
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\WindowsIntegration.runtimeconfig.json
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\WindowsIntegration.dll.config
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\WindowsIntegration.pdb
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\ClosedXML.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\DocumentFormat.OpenXml.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\ExcelNumberFormat.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\Microsoft.Office.Interop.Excel.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\System.Data.SqlClient.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\runtimes\win-arm64\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\runtimes\win-x64\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\runtimes\win-x86\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

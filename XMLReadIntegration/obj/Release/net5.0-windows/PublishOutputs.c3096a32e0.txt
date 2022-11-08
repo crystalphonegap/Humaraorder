@@ -1,0 +1,14 @@
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\XMLReadIntegration.exe
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\XMLReadIntegration.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\XMLReadIntegration.deps.json
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\XMLReadIntegration.runtimeconfig.json
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\XMLReadIntegration.dll.config
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\XMLReadIntegration.pdb
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\System.Data.SqlClient.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\runtimes\win-arm64\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\runtimes\win-x64\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\runtimes\win-x86\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\ClosedXML.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\XMLReadIntegration\bin\Release\net5.0-windows\publish\DocumentFormat.OpenXml.dll

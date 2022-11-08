@@ -1,0 +1,97 @@
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.exe
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.dll.config
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.deps.json
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.runtimeconfig.json
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.runtimeconfig.dev.json
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\ref\WindowsIntegration.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.pdb
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\ClosedXML.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\ExcelNumberFormat.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.AssemblyReference.cache
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.Form1.resources
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.GenerateResource.cache
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.AssemblyInfoInputs.cache
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.AssemblyInfo.cs
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.CoreCompileInputs.cache
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.CopyComplete
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\ref\WindowsIntegration.dll
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.pdb
+D:\Anil\Hamaraorder-Latest - Copy\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.genruntimeconfig.cache
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.exe
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.dll.config
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.deps.json
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.runtimeconfig.json
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.runtimeconfig.dev.json
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\ref\WindowsIntegration.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.pdb
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\ClosedXML.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\ExcelNumberFormat.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\Microsoft.Office.Interop.Excel.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.AssemblyReference.cache
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.Form1.resources
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.GenerateResource.cache
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.GeneratedMSBuildEditorConfig.editorconfig
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.AssemblyInfoInputs.cache
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.AssemblyInfo.cs
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.CoreCompileInputs.cache
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.CopyComplete
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\ref\WindowsIntegration.dll
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.pdb
+\\123.123.10.201\g\PIDILITE Product Hierarchy\Hamaraorder-Latest\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.genruntimeconfig.cache
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.exe
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.dll.config
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.deps.json
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.runtimeconfig.json
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.runtimeconfig.dev.json
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\ref\WindowsIntegration.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\WindowsIntegration.pdb
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\ClosedXML.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\ExcelNumberFormat.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.Form1.resources
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.GenerateResource.cache
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.AssemblyInfoInputs.cache
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.AssemblyInfo.cs
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.CoreCompileInputs.cache
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.CopyComplete
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\ref\WindowsIntegration.dll
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.pdb
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.genruntimeconfig.cache
+D:\Anil\Hamara Order\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.AssemblyReference.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.AssemblyReference.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.ResolveComReference.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.Form1.resources
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.GenerateResource.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.AssemblyInfoInputs.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.AssemblyInfo.cs
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\WindowsIntegration\obj\Debug\net5.0-windows\WindowsIntegration.csproj.CoreCompileInputs.cache

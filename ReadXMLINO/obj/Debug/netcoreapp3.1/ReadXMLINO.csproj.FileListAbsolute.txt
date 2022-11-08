@@ -1,0 +1,16 @@
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\bin\Debug\netcoreapp3.1\ReadXMLINO.exe
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\bin\Debug\netcoreapp3.1\ReadXMLINO.deps.json
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\bin\Debug\netcoreapp3.1\ReadXMLINO.runtimeconfig.json
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\bin\Debug\netcoreapp3.1\ReadXMLINO.runtimeconfig.dev.json
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\bin\Debug\netcoreapp3.1\ReadXMLINO.dll
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\bin\Debug\netcoreapp3.1\ReadXMLINO.pdb
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.csproj.AssemblyReference.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.Form1.resources
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.csproj.GenerateResource.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.AssemblyInfoInputs.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.AssemblyInfo.cs
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.csproj.CoreCompileInputs.cache
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.dll
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.pdb
+D:\Anil\Pidilite Projects\Hamaraorder-Latest\ReadXMLINO\obj\Debug\netcoreapp3.1\ReadXMLINO.genruntimeconfig.cache
